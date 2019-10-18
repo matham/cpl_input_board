@@ -6,4 +6,4 @@ the digital range, where < 2V is low and higher is high, and then uses opto-isol
 between the converted input and the output to prevent damage from downstream
 boards that read the digital state.
 
-This board has not been produced.
+Schematics is drawn using ExpressPCB software. This board has not been produced.
